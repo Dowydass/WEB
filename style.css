@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+@media (max-width: 1595px){
+}
+
+
+.box{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: 510px;
+  width: 100%;
+}
+.header{
+  		background-color: green;
+ 		width: 100%;
+	 	height: 50px;
+  		margin-bottom: 2px;
+}
+.nav{
+  background-color: green;
+  height: 150px;
+  width: 30%;
+ margin-right: 0.05%;
+}
+.ads{
+  background-color: green;
+  height: 150px;
+  width: 30%;
+  margin-top: 1px;
+
+}
+.article{
+		
+  background-color: green;
+  height: 240px;
+  width: 69%;
+
+}
+footer{
+  background-color: green;
+  width: 69%;
+  height: 60px;
+  margin-top: 2px;
+	
+}
